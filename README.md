@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Unique Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=9,22,25&height=180&section=header&text=Hi%20there,%20I'm%20Ritesh%20Kakade%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AIML%20Engineer%20%7C%20Python%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,22,25&height=180&section=header&text=Hi%20there,%20I'm%20Ritesh%20Kakade%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AIML%20Engineer%20%7C%20Python%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -58,6 +58,7 @@ I'm a final-year **Artificial Intelligence & Machine Learning** engineering stud
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -73,6 +74,7 @@ An AI-powered habit tracking application that not only logs habits but analyzes 
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/codebyritesh7/Habittracker)
 
+---
 
 ### 📝 NLP Text Summarizer & Analyzer
 > *Extracting insights from complex text data*
@@ -122,6 +124,6 @@ I am actively seeking opportunities to contribute to innovative teams and grow u
 
 **Drop a ⭐ on repos you find useful!**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=9,22,25&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,22,25&height=100&section=footer" width="100%"/>
 
 </div>
